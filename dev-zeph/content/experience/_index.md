@@ -1,7 +1,7 @@
 ---
 title: Experience
 button1_text: See page source
-button1_url: https://github.com/zetxek/adritian-demo/blob/main/content/experience/_index.md
+button1_url: https://github.com/ChizuluZephaniah/portfolio
 button1_icon: icon-square-github
 
 button2_text: Button 2

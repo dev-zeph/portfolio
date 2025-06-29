@@ -12,5 +12,4 @@ params:
 
         
 ## The content is not used (yet). If you have ideas on how to use it, 
-## you can suggest it at https://github.com/zetxek/adritian-free-hugo-theme/discussions 
 ---
