@@ -1,4 +1,4 @@
-baseURL = "https://adritian-demo.vercel.app/"
+baseURL = "https://chizulu-zephaniah.vercel.app/"
 title = "Chizulu Zephaniah"
 languageCode = "en"
 
@@ -64,7 +64,7 @@ target = "assets/css/bootstrap-print.css"
 
 [params]
 title = 'Chizulu Zephaniah'
-description = 'Chizulu Zephaniahs Portfolio!'
+description = "Chizulu Zephaniah's Portfolio."
 images = ['/img/og-img.png']
 sections = [
   "showcase",
@@ -320,7 +320,7 @@ weight = 4
 [[params.plugins.css]]
 URL = "css/custom.css"
 [[params.plugins.css]]
-URL = "css/adritian-icons.css"
+URL = "css/icons.css"
 ## Print css
 [[params.plugins.css]]
 URL = "css/bootstrap-print.css"
@@ -335,7 +335,7 @@ URL = "js/library/fontfaceobserver.js"
 
 # SCSS Plugins
 [[params.plugins.scss]]
-URL = "scss/adritian.scss"
+URL = "scss/main.scss"
 
 
 # theme/color style 

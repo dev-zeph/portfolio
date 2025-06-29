@@ -1,18 +1,18 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - un tema Hugo de alto rendimiento por Adrián Moreno"
+  translation: "Portafolio de Chizulu Zephaniah"
 - id: "meta_description"
-  translation: "Este tema de Hugo (Adritian) está basado en Bootstrap y tiene características que lo hacen adecuado para un sitio personal, un portafolio u otros tipos de aplicaciones de una sola página."
+  translation: "Sitio personal y portafolio de Chizulu Zephaniah."
 - id: "meta_keywords"
-  translation: "hugo, tema, bootstrap, adritian, adrian moreno, sitio personal, portfolio, aplicación de una sola página"
+  translation: "Chizulu Zephaniah, portafolio, ingeniero de software"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Chizulu Zephaniah"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
 ## Header
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Logo de Chizulu Zephaniah"
 - id: "logo_text1"
   translation: "Genial"
 - id: "logo_text2"
@@ -27,7 +27,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Tema gratuito de Hugo por Adrián Moreno Peña."
+  translation: "© Chizulu Zephaniah."
 - id: "language"
   translation: "Idioma"
 - id: "toggle_theme"
@@ -41,9 +41,9 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Sitio demo de Adritian - un tema Hugo de alto rendimiento por Adrián Moreno"
+  translation: "Portafolio de Chizulu Zephaniah"
 - id: "head_description"
-  translation: "Este tema de Hugo (Adritian) está basado en Bootstrap y tiene características que lo hacen adecuado para un sitio personal, un portafolio u otros tipos de aplicaciones de una sola página."
+  translation: "Sitio personal y portafolio de Chizulu Zephaniah."
 
 ## Blog
 - id: "read_more"

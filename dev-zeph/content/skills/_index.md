@@ -13,7 +13,7 @@ skill_categories:
       - name: "Java"
         level: 72
         years: "4+"
-        description: "Andriod App Development, Spring framework."
+        description: "Android App Development, Spring framework."
       - name: "SQL"
         level: 80
         years: "2+"
@@ -44,10 +44,10 @@ skill_categories:
         level: 80
         years: "1+"
         description: "DevOps Pipelines, Cloud and Database Management"
-      - name: "Andrioid Studio"
+      - name: "Android Studio"
         level: 80
         years: "1+"
-        description: "Seamless Andriod app Development"
+        description: "Seamless Android app Development"
       
       
 ---

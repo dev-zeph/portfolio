@@ -7,7 +7,7 @@ draft = false
 
 {{< showcase-section
     title="Chizulu Zephaniah"
-    subtitle="Software Enginner <br> <code>print('Portfolio!')</code>"
+    subtitle="Software Engineer <br> <code>print('Portfolio!')</code>"
     buttonText="Email"
     description="<strong>Welcome!</strong> <em>Its nice having you</em>."
     imgSrc="images/showcase/showcase.png"
