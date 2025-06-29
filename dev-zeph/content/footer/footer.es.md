@@ -6,20 +6,21 @@ draft = false
 
 
 {{< contact-section
-    sectionId="contacto"
     title="Contáctame" 
     contact_form_name="Tu nombre"
-    contact_form_email="Tu correo"
+    contact_form_email="Tu correo electrónico"
     contact_form_message="Tu mensaje"
+    contact_form_phone="Tu teléfono"
     contact_button="Enviar mensaje"
     contact_phone_title="Mi teléfono"
-    contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
+    contact_phone_number="<a href='tel:+555666777'>782 234 0161</a>"
     contact_email_title="Mi correo"
-    contact_email_email="demo@demosite.com"
-    contact_address_title="Mi ubicación"
-    contact_address_address="🇩🇰 Denmark"
+    contact_email_email="<a href='mailto:zephchizulu@gmail.com'>zephchizulu@gmail.com</a>"
+    contact_address_title="Mi ciudad"
+    contact_address_address="Halifax, Nova Scotia"
     form_action="https://formspree.io/f/mail@example.com"
     form_method="POST"
+    contact_form_rows="3"
 >}}
 
 {{< newsletter-section 
@@ -39,10 +40,6 @@ title="Contenido extra"
 centered="true"
 >}}
 
-Puedes añadir contenido adicional después de los bloques de `section`.
 
-Aquí puedes ser creativo, utilizar otros shortcodes, ... O dejarlo vacío.
-
-Para añadir texto que quede bien en el pie, puedes utilizar el shortcode `text-section`.
 
 {{< /text-section >}}

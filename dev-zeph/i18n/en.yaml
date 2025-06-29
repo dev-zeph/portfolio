@@ -1,25 +1,25 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Chizulu Zephaniah"
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Welcome to my portfolio website!"
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+  translation: "personal site, portfolio, single page application"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Chizulu Zephaniah"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
 ## Header
 
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Chizulu"
 
 - id: "logo_text1"
-  translation: "Adritian"
+  translation: "Dev"
 
 - id: "logo_text2"
-  translation: "Demo"
+  translation: "Zeph"
 
 ## General
 - id: "skipToMainContent"
@@ -30,7 +30,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "© 2023 Chizulu Zephaniah. All rights reserved."
 
 - id: "language"
   translation: "Language"
@@ -47,10 +47,10 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Chizulu Zephaniah"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Welcome to my portfolio website! I am a software engineer with a passion for building innovative solutions. Explore my work and get in touch!"
 
 
 ## Blog

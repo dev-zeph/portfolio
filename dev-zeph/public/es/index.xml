@@ -4,7 +4,7 @@
 &lt;p>Como Desarrollador Senior, lideré varias iniciativas clave que optimizaron significativamente nuestros procesos internos y mejoraron la productividad del equipo.
 Una de las tareas más críticas que emprendí fue diagnosticar y resolver problemas de larga data con nuestro pipeline de CI/CD en Azure. La documentación del equipo anterior describía problemas persistentes de despliegue, lo que llevó al Director Técnico a asignarme a mí y a un compañero Desarrollador Senior para abordar el problema. Realicé diagnósticos exhaustivos, identifiqué ineficiencias en la configuración de despliegue de Azure, e implementé correcciones integrales. Como resultado, el pipeline de CI/CD ahora opera sin problemas, y los despliegues son consistentemente exitosos.
 También estoy particularmente orgulloso de haber sido mentor de desarrolladores junior guiándolos a través de tareas de codificación, promoviendo mejores prácticas con Git, y realizando revisiones de código para asegurar la calidad antes de las fusiones.&lt;/p></description></item><item><title>Trabajo #1</title><link>http://localhost:1313/es/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-1/</guid><description>&lt;h2 id="1er-trabajo-desarrollador-junior">1er trabajo: Desarrollador Junior&lt;/h2>
-&lt;p>El comienzo de una gran carrera. Como Desarrollador Junior para Dalhousie Consulting Association, tuve la oportunidad de trabajar en el sitio web de DCA. Trabajando junto a desarrolladores senior experimentados y el director técnico, contribuí a la aplicación web principal de la empresa y aprendí las mejores prácticas de la industria en desarrollo de software. Durante los sprints, diseñé wireframes utilizando Figma e implementé los wireframes con React.js y TailwindCSS. Tomé la iniciativa de crear contenido orientado al cliente para ayudar a decidir qué Sistema de Gestión de Contenido utilizar - para lo cual finalmente eligieron Strapi CMS. Los desarrolladores senior asistieron mis esfuerzos en integrar Strapi CMS para los clientes mientras reconocían su poca habilidad técnica. Al final del proyecto, entregamos un sitio web completamente funcional, con contenido personalizable por un backend de Strapi integrado sin problemas. Este proyecto me enseñó lecciones valiosas en desarrollo técnico y colaboración. También participé en revisiones de código y reuniones diarias de seguimiento, obteniendo experiencia de primera mano en metodologías de desarrollo ágil. En general, a través de esta experiencia, construí una base sólida en desarrollo de software y colaboración profesional, sentando las bases para mi avance a roles más críticos dentro de los equipos.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/es/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/footer/footer/</guid><description>&lt;section id="contacto" class="section section--contact pt-0">
+&lt;p>El comienzo de una gran carrera. Como Desarrollador Junior para Dalhousie Consulting Association, tuve la oportunidad de trabajar en el sitio web de DCA. Trabajando junto a desarrolladores senior experimentados y el director técnico, contribuí a la aplicación web principal de la empresa y aprendí las mejores prácticas de la industria en desarrollo de software. Durante los sprints, diseñé wireframes utilizando Figma e implementé los wireframes con React.js y TailwindCSS. Tomé la iniciativa de crear contenido orientado al cliente para ayudar a decidir qué Sistema de Gestión de Contenido utilizar - para lo cual finalmente eligieron Strapi CMS. Los desarrolladores senior asistieron mis esfuerzos en integrar Strapi CMS para los clientes mientras reconocían su poca habilidad técnica. Al final del proyecto, entregamos un sitio web completamente funcional, con contenido personalizable por un backend de Strapi integrado sin problemas. Este proyecto me enseñó lecciones valiosas en desarrollo técnico y colaboración. También participé en revisiones de código y reuniones diarias de seguimiento, obteniendo experiencia de primera mano en metodologías de desarrollo ágil. En general, a través de esta experiencia, construí una base sólida en desarrollo de software y colaboración profesional, sentando las bases para mi avance a roles más críticos dentro de los equipos.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/es/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
  &lt;div class="container">
  &lt;div class="contact w-100">
  &lt;h2>Contáctame&lt;/h2>
@@ -17,17 +17,17 @@ También estoy particularmente orgulloso de haber sido mentor de desarrolladores
  &lt;input type="text" name="full_name" class="form-control" placeholder="Tu nombre">
  &lt;/div>
  &lt;div class="col-12 col-sm-6">
- &lt;input type="email" name="email" class="form-control" placeholder="Tu correo">
+ &lt;input type="email" name="email" class="form-control" placeholder="Tu correo electrónico">
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
  &lt;div class="col-12">
- &lt;input type="tel" name="phone" class="form-control" >
+ &lt;input type="tel" name="phone" class="form-control" placeholder="Tu teléfono">
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
  &lt;div class="col-12">
- &lt;textarea name="message" class="form-control" rows="2" placeholder="Tu mensaje">&lt;/textarea>
+ &lt;textarea name="message" class="form-control" rows="3" placeholder="Tu mensaje">&lt;/textarea>
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
@@ -40,17 +40,17 @@ También estoy particularmente orgulloso de haber sido mentor de desarrolladores
  &lt;div class="col-12 col-lg-5 contact__info">
  
  &lt;h3>Mi teléfono&lt;/h3>
- &lt;span>&lt;a href='tel:+555666777'>555 666 777&lt;/a>&lt;/span>
+ &lt;span>&lt;a href='tel:+555666777'>782 234 0161&lt;/a>&lt;/span>
  
 
  
  &lt;h3>Mi correo&lt;/h3>
- &lt;span>demo@demosite.com&lt;/span>
+ &lt;span>&lt;a href='mailto:zephchizulu@gmail.com'>zephchizulu@gmail.com&lt;/a>&lt;/span>
  
  
  
- &lt;h3>Mi ubicación&lt;/h3>
- &lt;span>🇩🇰 Denmark&lt;/span>
+ &lt;h3>Mi ciudad&lt;/h3>
+ &lt;span>Halifax, Nova Scotia&lt;/span>
  
  &lt;/div>
  &lt;/div>
@@ -153,7 +153,12 @@ También estoy particularmente orgulloso de haber sido mentor de desarrolladores
  
  
  &lt;div class="text-section__content">
- &lt;p>Puedes añadir contenido adicional después de los bloques de &lt;code>section&lt;/code>.&lt;/p></description></item><item><title>Inicio</title><link>http://localhost:1313/es/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section></description></item><item><title>Inicio</title><link>http://localhost:1313/es/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 

@@ -15,10 +15,10 @@ draft = false
     contact_phone_title="My phone"
     contact_phone_number="<a href='tel:+555666777'>782 234 0161</a>"
     contact_email_title="My mail"
-    contact_email_email="<a href='mailto:demo@demosite.com'>zephchizulu@gmail.com</a>"
+    contact_email_email="<a href='mailto:zephchizulu@gmail.com'>zephchizulu@gmail.com</a>"
     contact_address_title="My City"
     contact_address_address="Halifax, Nova Scotia"
-    form_action="https://formspree.io/f/mail@example.com"
+    form_action="https://formspree.io/f/xldnaqwr"
     form_method="POST"
     contact_form_rows="3"
 >}}

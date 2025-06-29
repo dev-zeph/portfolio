@@ -401,4 +401,153 @@ La plateforme a été construite en utilisant React.js, TailwindCSS, et Node.js,
  &lt;/div>
 &lt;/section>
 &lt;h2 id="expérience-liste">Expérience (liste)&lt;/h2>
-&lt;p>Vous pouvez voir une autre version, utilisant &lt;code>experience-list&lt;/code> sur &lt;a href="http://localhost:1313/cv">/cv&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>Vous pouvez voir une autre version, utilisant &lt;code>experience-list&lt;/code> sur &lt;a href="http://localhost:1313/cv">/cv&lt;/a>.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/fr/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fr/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
+ &lt;div class="container">
+ &lt;div class="contact w-100">
+ &lt;h2>Envoyez-moi un message&lt;/h2>
+
+ &lt;div class="row pt-2">
+ &lt;div class="col-12 col-lg-7">
+ &lt;form action="https://formspree.io/f/zephchizulu@gmail.com" method="POST" class="contact__form">
+ &lt;div class="row">
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="text" name="full_name" class="form-control" placeholder="Votre nom">
+ &lt;/div>
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="email" name="email" class="form-control" placeholder="Votre e-mail">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;input type="tel" name="phone" class="form-control" placeholder="Votre téléphone">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;textarea name="message" class="form-control" rows="3" placeholder="Votre message">&lt;/textarea>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;button type="submit" class="btn btn-primary">Envoyer le message&lt;/button>
+ &lt;/div>
+ &lt;/div>
+ &lt;/form>
+ &lt;/div>
+ &lt;div class="col-12 col-lg-5 contact__info">
+ 
+ &lt;h3>Mon téléphone&lt;/h3>
+ &lt;span>&lt;a href='tel:+555666777'>782 234 0161&lt;/a>&lt;/span>
+ 
+
+ 
+ &lt;h3>Mon email&lt;/h3>
+ &lt;span>&lt;a href='mailto:zephchizulu@gmail.com'>zephchizulu@gmail.com&lt;/a>&lt;/span>
+ 
+ 
+ 
+ &lt;h3>Ma ville&lt;/h3>
+ &lt;span>Halifax, Nouvelle-Écosse&lt;/span>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+&lt;section id="newsletter" class="section section--cta">
+ &lt;div class="container d-flex justify-content-center align-items-center">
+ &lt;div class="row">
+ &lt;div class="col-12 text-center">
+ &lt;h2>
+ 
+ Restez informé 
+ 
+ &lt;/h2>
+ &lt;div class="rad-subscription-group">
+ &lt;form
+ id="rad-subscription"
+ action="http://localhost:1313/"
+ method="POST"
+ >
+ &lt;input
+ id="rad-subscription-email"
+ type="email"
+ class="form-control"
+ aria-describedby="emailHelp"
+ placeholder=' votre-email@gmail.com '
+ aria-label=' votre-email@gmail.com '
+ >
+ &lt;button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
+ 
+ S&amp;#39;abonner 
+ 
+ &lt;/button>
+ &lt;/form>
+ &lt;div id="rad-subscription-success" class="d-none">
+ &lt;p class="lead">
+ 
+ Merci de vous être abonné ! 
+ 
+ &lt;/p>
+ &lt;/div>
+ &lt;div id="rad-subscription-fail" class="d-none">
+ &lt;p>
+ 
+ Quelque chose s&amp;#39;est mal passé, veuillez réessayer. 
+ 
+ &lt;/p>
+ &lt;/div>
+ &lt;script src='http://localhost:1313/js/subscription.js'>&lt;/script>
+ &lt;/div>
+ &lt;small id="emailHelp" class="form-text text-muted">
+ 
+ Ne vous inquiétez pas, je respecte votre vie privée et ne partagerai pas vos données. 
+ 
+ &lt;/small>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+&lt;section class="section section--border-bottom rad-animation-group section--padding">
+ &lt;div class="container">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12">
+ 
+ 
+ &lt;div class="text-section__content">
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section></description></item></channel></rss>
