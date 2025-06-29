@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/fr/</link><description>Recent content on</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml"/><item><title>Poste #3</title><link>http://localhost:1313/fr/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/fr/experience/job-3/</guid><description>&lt;h2 id="3ème-emploi--développeur-unique">3ème emploi : Développeur Unique&lt;/h2>
+&lt;p>J&amp;rsquo;ai dirigé le développement de Dalnotes, un référentiel de notes centralisé et open-source conçu pour aider les étudiants de Dalhousie à stocker, partager et accéder facilement aux notes académiques. Bien qu&amp;rsquo;il ne soit pas officiellement affilié à l&amp;rsquo;Université Dalhousie, Dalnotes répond à un besoin réel au sein de la communauté étudiante pour des ressources d&amp;rsquo;étude accessibles et collaboratives.&lt;/p>
+&lt;p>La plateforme a été construite en utilisant React.js, TailwindCSS, et Node.js, avec le backend hébergé sur Railway et les données stockées dans PostgreSQL. Les notes sont téléchargées et téléversées de manière asynchrone via AWS S3 pour assurer la performance et la scalabilité. En tant que projet open-source, Dalnotes invite les contributions de la communauté Dalhousie, encourageant la révision par les pairs et l&amp;rsquo;amélioration continue du code source.&lt;/p></description></item><item><title>Poste #2</title><link>http://localhost:1313/fr/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/fr/experience/job-2/</guid><description>&lt;h2 id="2ème-emploi--développeur-senior">2ème emploi : Développeur Senior&lt;/h2>
+&lt;p>En tant que Développeur Senior, j&amp;rsquo;ai dirigé plusieurs initiatives clés qui ont considérablement rationalisé nos processus internes et amélioré la productivité de l&amp;rsquo;équipe.
+L&amp;rsquo;une des tâches les plus critiques que j&amp;rsquo;ai entreprises était de diagnostiquer et résoudre des problèmes de longue date avec notre pipeline CI/CD sur Azure. La documentation de l&amp;rsquo;équipe précédente décrivait des problèmes de déploiement persistants, ce qui a amené le Directeur Technique à m&amp;rsquo;assigner ainsi qu&amp;rsquo;un collègue Développeur Senior pour résoudre le problème. J&amp;rsquo;ai effectué des diagnostics approfondis, identifié des inefficacités dans les paramètres de déploiement Azure, et implémenté des corrections complètes. En conséquence, le pipeline CI/CD fonctionne maintenant sans problème, et les déploiements sont systématiquement réussis.
+Je suis aussi particulièrement fier d&amp;rsquo;avoir encadré des développeurs junior en les guidant à travers les tâches de codage, en promouvant les meilleures pratiques avec Git, et en effectuant des revues de code pour assurer la qualité avant les fusions.&lt;/p></description></item><item><title>Accueil</title><link>http://localhost:1313/fr/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fr/home/home/</guid><description>&lt;section id="section-vedette" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;div id="main-content">
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate">
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+ &lt;h1 class="display-1">
+ Chizulu Zephaniah
+ &lt;/h1>
+ &lt;h2 class="display-5">
+ &lt;span>Ingénieur Logiciel &lt;br> &lt;code>print('Portfolio!')&lt;/code>&lt;/span>
+ &lt;/h2>
+ &lt;div class="lead">
+ &lt;strong>Bienvenue !&lt;/strong> &lt;em>C'est un plaisir de vous avoir ici&lt;/em>.
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png">
+
+ &lt;img
+ width="790"
+ height="768"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+
+
+
+ &lt;/div>
+ &lt;div class="col-12 inner-content">
+ 
+
+
+
+
+
+ 
+
+&lt;div class="container" id="liens-plateforme">
+ &lt;div class="row platform-links shortcode">
+ &lt;div class="col-12">
+ 
+ 
+ &lt;a
+ href="https://x.com/zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-twitter"
+ >&lt;i class="icon-square-twitter">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/chizulu-zephaniah-906582308/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ >&lt;i class="icon-linkedin">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://github.com/dev-zeph"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ >&lt;i class="icon-square-github">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://x.com/zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="x-twitter"
+ >&lt;i class="icon-x-twitter">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.instagram.com/zephwys/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="instagram"
+ >&lt;i class="icon-instagram">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.threads.com/@zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="threads"
+ >&lt;i class="icon-threads">&lt;/i>
+ &lt;/a>
+
+&lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+ &lt;/div>
+ 
+
+ &lt;/div>
+
+
+ &lt;div class="row platform-links">
+ &lt;div class="col-12">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;section id="a-propos" class="section rad-animation-group pb-0">
+ &lt;div class="rad-fade-down">
+ &lt;div class="row d-flex flex-column-reverse flex-md-row">
+ &lt;div class="about__profile-picture col-12 col-md-6">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/me_hu_75e2b7e55763799c.webp 1x, http://localhost:1313/images/about/me_hu_35a3a05634c49a84.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/me_hu_118af3ab5d9ca6.png 1x, http://localhost:1313/images/about/me_hu_f82749f459078d99.png 2x" type="image/png">
+
+ &lt;img
+ width="806"
+ height="604"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/images/about/me_hu_118af3ab5d9ca6.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/div>
+ &lt;div class="col-12 col-md-6 my-auto">
+ &lt;h1>À propos de moi&lt;/h1>
+ &lt;div class="about-me content lead">
+ Je suis un ingénieur logiciel en devenir avec une expérience pratique en &lt;code>développement web full-stack&lt;/code>, &lt;code>gestion de bases de données&lt;/code>, et &lt;code>Intelligence Artificielle&lt;/code>. &lt;br/> &lt;em>Au-delà de l'ingénierie,&lt;/em> je suis animé par un profond engagement envers les causes humanitaires et je canalise activement mes compétences techniques et mes revenus vers la création de solutions qui soutiennent les communautés. &lt;br> &lt;br> Mon objectif à long terme est de tirer parti de ma carrière en développement logiciel pour étendre la portée des initiatives à but non lucratif que je dirige.
+ &lt;/div>
+ 
+ &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
+ &lt;i class="icon-user">&lt;/i>
+ Voir mes compétences
+ &lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+ 
+
+
+&lt;section
+ id="formation-academique"
+ class="section section--border-bottom rad-animation-group"
+>
+ &lt;div class="container-education">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12">
+ &lt;h2>Formation académique&lt;/h2>
+ &lt;div class="row pt-2 pt-md-4">
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;section id="experience-professionnelle" class="section-experience section section--border-bottom rad-animation-group flex-grow-1">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 col-md-6">
+ &lt;h2>
+ 
+ Expérience professionnelle
+ 
+ &lt;/h2>
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/fr/experience/job-3/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2024&lt;/div>
+ &lt;div class="experience__title">Développeur Unique&lt;/div>
+ &lt;div class="experience__company">
+ DalNotes.
+ &lt;span class="experience__location">Halifax, Nouvelle-Écosse&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Poste #3&lt;/h1>
+ 3ème emploi : Développeur Unique J&amp;rsquo;ai dirigé le développement de Dalnotes, un référentiel de notes centralisé et open-source conçu pour aider les étudiants de Dalhousie à stocker, partager et accéder facilement aux notes académiques. Bien qu&amp;rsquo;il ne soit pas officiellement affilié à l&amp;rsquo;Université Dalhousie, Dalnotes répond à un besoin réel au sein de la communauté étudiante pour des ressources d&amp;rsquo;étude accessibles et collaboratives.
+La plateforme a été construite en utilisant React.js, TailwindCSS, et Node.js, avec le backend hébergé sur Railway et les données stockées dans PostgreSQL. Les notes sont téléchargées et téléversées de manière asynchrone via AWS S3 pour assurer la performance et la scalabilité. En tant que projet open-source, Dalnotes invite les contributions de la communauté Dalhousie, encourageant la révision par les pairs et l&amp;rsquo;amélioration continue du code source.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/fr/experience/job-2/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2023-2024&lt;/div>
+ &lt;div class="experience__title">Développeur Senior&lt;/div>
+ &lt;div class="experience__company">
+ Chem-AR (Dalhousie University).
+ &lt;span class="experience__location">Halifax, Nouvelle-Écosse&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Poste #2&lt;/h1>
+ 2ème emploi : Développeur Senior En tant que Développeur Senior, j&amp;rsquo;ai dirigé plusieurs initiatives clés qui ont considérablement rationalisé nos processus internes et amélioré la productivité de l&amp;rsquo;équipe. L&amp;rsquo;une des tâches les plus critiques que j&amp;rsquo;ai entreprises était de diagnostiquer et résoudre des problèmes de longue date avec notre pipeline CI/CD sur Azure. La documentation de l&amp;rsquo;équipe précédente décrivait des problèmes de déploiement persistants, ce qui a amené le Directeur Technique à m&amp;rsquo;assigner ainsi qu&amp;rsquo;un collègue Développeur Senior pour résoudre le problème. J&amp;rsquo;ai effectué des diagnostics approfondis, identifié des inefficacités dans les paramètres de déploiement Azure, et implémenté des corrections complètes. En conséquence, le pipeline CI/CD fonctionne maintenant sans problème, et les déploiements sont systématiquement réussis. Je suis aussi particulièrement fier d&amp;rsquo;avoir encadré des développeurs junior en les guidant à travers les tâches de codage, en promouvant les meilleures pratiques avec Git, et en effectuant des revues de code pour assurer la qualité avant les fusions.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;/div>
+ &lt;div class="experience-description col-12 col-md-6">
+ 
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="container-experience">
+ &lt;div class="row">
+ &lt;h2>Liens rapides&lt;/h2>
+ &lt;div class="lead">&lt;/div>
+ &lt;/div>
+
+ &lt;div class="row">
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='https://www.linkedin.com/in/chizulu-zephaniah-906582308/'
+ class="btn btn-primary btn-block w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ &lt;i class="icon-globe">&lt;/i>
+ Linkedin
+ &lt;i class="icon-arrow-right">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='https://github.com/dev-zeph'
+ class="btn btn-frameless w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ 
+ Github
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='http://localhost:1313/fr/experience'
+ class="btn btn-frameless w-100"
+ rel="noopener noreferrer"
+ >
+ 
+ Tout voir
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/div>
+
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;h2 id="expérience-liste">Expérience (liste)&lt;/h2>
+&lt;p>Vous pouvez voir une autre version, utilisant &lt;code>experience-list&lt;/code> sur &lt;a href="http://localhost:1313/cv">/cv&lt;/a>.&lt;/p></description></item></channel></rss>

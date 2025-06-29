@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/es/</link><description>Recent content on</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Trabajo #3</title><link>http://localhost:1313/es/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-3/</guid><description>&lt;h2 id="3er-trabajo-desarrollador-único">3er trabajo: Desarrollador Único&lt;/h2>
+&lt;p>Lideré el desarrollo de Dalnotes, un repositorio de notas centralizado y de código abierto diseñado para ayudar a los estudiantes de Dalhousie a almacenar, compartir y acceder fácilmente a notas académicas. Aunque no está oficialmente afiliado con la Universidad Dalhousie, Dalnotes aborda una necesidad real dentro de la comunidad estudiantil para recursos de estudio accesibles y colaborativos.&lt;/p>
+&lt;p>La plataforma fue construida utilizando React.js, TailwindCSS, y Node.js, con el backend alojado en Railway y datos almacenados en PostgreSQL. Las notas se cargan y descargan de manera asíncrona a través de AWS S3 para asegurar rendimiento y escalabilidad. Como proyecto de código abierto, Dalnotes invita contribuciones de la comunidad Dalhousie, fomentando la revisión por pares y la mejora continua del código base.&lt;/p></description></item><item><title>Trabajo #2</title><link>http://localhost:1313/es/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-2/</guid><description>&lt;h2 id="2do-trabajo-desarrollador-senior">2do trabajo: Desarrollador Senior&lt;/h2>
+&lt;p>Como Desarrollador Senior, lideré varias iniciativas clave que optimizaron significativamente nuestros procesos internos y mejoraron la productividad del equipo.
+Una de las tareas más críticas que emprendí fue diagnosticar y resolver problemas de larga data con nuestro pipeline de CI/CD en Azure. La documentación del equipo anterior describía problemas persistentes de despliegue, lo que llevó al Director Técnico a asignarme a mí y a un compañero Desarrollador Senior para abordar el problema. Realicé diagnósticos exhaustivos, identifiqué ineficiencias en la configuración de despliegue de Azure, e implementé correcciones integrales. Como resultado, el pipeline de CI/CD ahora opera sin problemas, y los despliegues son consistentemente exitosos.
+También estoy particularmente orgulloso de haber sido mentor de desarrolladores junior guiándolos a través de tareas de codificación, promoviendo mejores prácticas con Git, y realizando revisiones de código para asegurar la calidad antes de las fusiones.&lt;/p></description></item><item><title>Trabajo #1</title><link>http://localhost:1313/es/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-1/</guid><description>&lt;h2 id="1er-trabajo-desarrollador-junior">1er trabajo: Desarrollador Junior&lt;/h2>
+&lt;p>El comienzo de una gran carrera. Como Desarrollador Junior para Dalhousie Consulting Association, tuve la oportunidad de trabajar en el sitio web de DCA. Trabajando junto a desarrolladores senior experimentados y el director técnico, contribuí a la aplicación web principal de la empresa y aprendí las mejores prácticas de la industria en desarrollo de software. Durante los sprints, diseñé wireframes utilizando Figma e implementé los wireframes con React.js y TailwindCSS. Tomé la iniciativa de crear contenido orientado al cliente para ayudar a decidir qué Sistema de Gestión de Contenido utilizar - para lo cual finalmente eligieron Strapi CMS. Los desarrolladores senior asistieron mis esfuerzos en integrar Strapi CMS para los clientes mientras reconocían su poca habilidad técnica. Al final del proyecto, entregamos un sitio web completamente funcional, con contenido personalizable por un backend de Strapi integrado sin problemas. Este proyecto me enseñó lecciones valiosas en desarrollo técnico y colaboración. También participé en revisiones de código y reuniones diarias de seguimiento, obteniendo experiencia de primera mano en metodologías de desarrollo ágil. En general, a través de esta experiencia, construí una base sólida en desarrollo de software y colaboración profesional, sentando las bases para mi avance a roles más críticos dentro de los equipos.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/es/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/footer/footer/</guid><description>&lt;section id="contacto" class="section section--contact pt-0">
+ &lt;div class="container">
+ &lt;div class="contact w-100">
+ &lt;h2>Contáctame&lt;/h2>
+
+ &lt;div class="row pt-2">
+ &lt;div class="col-12 col-lg-7">
+ &lt;form action="https://formspree.io/f/mail@example.com" method="POST" class="contact__form">
+ &lt;div class="row">
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="text" name="full_name" class="form-control" placeholder="Tu nombre">
+ &lt;/div>
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="email" name="email" class="form-control" placeholder="Tu correo">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;input type="tel" name="phone" class="form-control" >
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;textarea name="message" class="form-control" rows="2" placeholder="Tu mensaje">&lt;/textarea>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;button type="submit" class="btn btn-primary">Enviar mensaje&lt;/button>
+ &lt;/div>
+ &lt;/div>
+ &lt;/form>
+ &lt;/div>
+ &lt;div class="col-12 col-lg-5 contact__info">
+ 
+ &lt;h3>Mi teléfono&lt;/h3>
+ &lt;span>&lt;a href='tel:+555666777'>555 666 777&lt;/a>&lt;/span>
+ 
+
+ 
+ &lt;h3>Mi correo&lt;/h3>
+ &lt;span>demo@demosite.com&lt;/span>
+ 
+ 
+ 
+ &lt;h3>Mi ubicación&lt;/h3>
+ &lt;span>🇩🇰 Denmark&lt;/span>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+&lt;section id="newsletter" class="section section--cta">
+ &lt;div class="container d-flex justify-content-center align-items-center">
+ &lt;div class="row">
+ &lt;div class="col-12 text-center">
+ &lt;h2>
+ 
+ Subscríbete 
+ 
+ &lt;/h2>
+ &lt;div class="rad-subscription-group">
+ &lt;form
+ id="rad-subscription"
+ action="http://localhost:1313/"
+ method="POST"
+ >
+ &lt;input
+ id="rad-subscription-email"
+ type="email"
+ class="form-control"
+ aria-describedby="emailHelp"
+ placeholder=' Tu correo '
+ aria-label=' Tu correo '
+ >
+ &lt;button type="submit" id="rad-subscription-submit" class="btn btn-light btn-rounded">
+ 
+ Subscríbete 
+ 
+ &lt;/button>
+ &lt;/form>
+ &lt;div id="rad-subscription-success" class="d-none">
+ &lt;p class="lead">
+ 
+ Gracias por suscribirte! 
+ 
+ &lt;/p>
+ &lt;/div>
+ &lt;div id="rad-subscription-fail" class="d-none">
+ &lt;p>
+ 
+ Algo ha fallado, por favor inténtalo de nuevo. 
+ 
+ &lt;/p>
+ &lt;/div>
+ &lt;script src='http://localhost:1313/js/subscription.js'>&lt;/script>
+ &lt;/div>
+ &lt;small id="emailHelp" class="form-text text-muted">
+ 
+ Respetamos tu privacidad. 
+ 
+ &lt;/small>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+&lt;section class="section section--border-bottom rad-animation-group section--padding">
+ &lt;div class="container d-flex justify-content-center align-items-center">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12 text-center">
+ 
+ &lt;h2 class="section__title">Contenido extra&lt;/h2>
+ 
+ 
+ &lt;div class="text-section__content">
+ &lt;p>Puedes añadir contenido adicional después de los bloques de &lt;code>section&lt;/code>.&lt;/p></description></item><item><title>Inicio</title><link>http://localhost:1313/es/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;div id="main-content">
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate">
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+ &lt;h1 class="display-1">
+ Chizulu Zephaniah
+ &lt;/h1>
+ &lt;h2 class="display-5">
+ &lt;span>Ingeniero de Software &lt;br> &lt;code>print('Portfolio!')&lt;/code>&lt;/span>
+ &lt;/h2>
+ &lt;div class="lead">
+ &lt;strong>¡Bienvenido!&lt;/strong> &lt;em>Es un placer tenerte aquí&lt;/em>.
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png">
+
+ &lt;img
+ width="790"
+ height="768"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+
+
+
+ &lt;/div>
+ &lt;div class="col-12 inner-content">
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="row platform-links shortcode">
+ &lt;div class="col-12">
+ 
+ 
+ &lt;a
+ href="https://x.com/zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-twitter"
+ >&lt;i class="icon-square-twitter">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/chizulu-zephaniah-906582308/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ >&lt;i class="icon-linkedin">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://github.com/dev-zeph"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ >&lt;i class="icon-square-github">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://x.com/zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="x-twitter"
+ >&lt;i class="icon-x-twitter">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.instagram.com/zephwys/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="instagram"
+ >&lt;i class="icon-instagram">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.threads.com/@zephwys"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="threads"
+ >&lt;i class="icon-threads">&lt;/i>
+ &lt;/a>
+
+&lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+ &lt;/div>
+ 
+
+ &lt;/div>
+
+
+ &lt;div class="row platform-links">
+ &lt;div class="col-12">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;section id="about" class="section rad-animation-group pb-0">
+ &lt;div class="rad-fade-down">
+ &lt;div class="row d-flex flex-column-reverse flex-md-row">
+ &lt;div class="about__profile-picture col-12 col-md-6">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/me_hu_75e2b7e55763799c.webp 1x, http://localhost:1313/images/about/me_hu_35a3a05634c49a84.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/me_hu_118af3ab5d9ca6.png 1x, http://localhost:1313/images/about/me_hu_f82749f459078d99.png 2x" type="image/png">
+
+ &lt;img
+ width="806"
+ height="604"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/images/about/me_hu_118af3ab5d9ca6.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/div>
+ &lt;div class="col-12 col-md-6 my-auto">
+ &lt;h1>Sobre mí&lt;/h1>
+ &lt;div class="about-me content lead">
+ Soy un ingeniero de software en desarrollo con experiencia práctica en &lt;code>desarrollo web full-stack&lt;/code>, &lt;code>gestión de bases de datos&lt;/code>, e &lt;code>Inteligencia Artificial&lt;/code>. &lt;br/> &lt;em>Más allá de la ingeniería,&lt;/em> estoy impulsado por un profundo compromiso con las causas humanitarias y canalizo activamente mis habilidades técnicas y recursos hacia la construcción de soluciones que apoyen a las comunidades. &lt;br> &lt;br> Mi objetivo a largo plazo es aprovechar mi carrera en desarrollo de software para ampliar el alcance de las iniciativas sin fines de lucro que lidero.
+ &lt;/div>
+ 
+ &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
+ &lt;i class="icon-user">&lt;/i>
+ Ver mis habilidades
+ &lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+&lt;section
+ id="education"
+ class="section section--border-bottom rad-animation-group"
+>
+ &lt;div class="container-education">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12">
+ &lt;h2>Formación académica&lt;/h2>
+ &lt;div class="row pt-2 pt-md-4">
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 col-md-6">
+ &lt;h2>
+ 
+ Experiencia laboral
+ 
+ &lt;/h2>
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/es/experience/job-3/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2024&lt;/div>
+ &lt;div class="experience__title">Desarrollador Único&lt;/div>
+ &lt;div class="experience__company">
+ DalNotes.
+ &lt;span class="experience__location">Halifax, Nueva Escocia&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Trabajo #3&lt;/h1>
+ 3er trabajo: Desarrollador Único Lideré el desarrollo de Dalnotes, un repositorio de notas centralizado y de código abierto diseñado para ayudar a los estudiantes de Dalhousie a almacenar, compartir y acceder fácilmente a notas académicas. Aunque no está oficialmente afiliado con la Universidad Dalhousie, Dalnotes aborda una necesidad real dentro de la comunidad estudiantil para recursos de estudio accesibles y colaborativos.
+La plataforma fue construida utilizando React.js, TailwindCSS, y Node.js, con el backend alojado en Railway y datos almacenados en PostgreSQL. Las notas se cargan y descargan de manera asíncrona a través de AWS S3 para asegurar rendimiento y escalabilidad. Como proyecto de código abierto, Dalnotes invita contribuciones de la comunidad Dalhousie, fomentando la revisión por pares y la mejora continua del código base.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/es/experience/job-2/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2023-2024&lt;/div>
+ &lt;div class="experience__title">Desarrollador Senior&lt;/div>
+ &lt;div class="experience__company">
+ Chem-AR (Dalhousie University).
+ &lt;span class="experience__location">Halifax, Nueva Escocia&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Trabajo #2&lt;/h1>
+ 2do trabajo: Desarrollador Senior Como Desarrollador Senior, lideré varias iniciativas clave que optimizaron significativamente nuestros procesos internos y mejoraron la productividad del equipo. Una de las tareas más críticas que emprendí fue diagnosticar y resolver problemas de larga data con nuestro pipeline de CI/CD en Azure. La documentación del equipo anterior describía problemas persistentes de despliegue, lo que llevó al Director Técnico a asignarme a mí y a un compañero Desarrollador Senior para abordar el problema. Realicé diagnósticos exhaustivos, identifiqué ineficiencias en la configuración de despliegue de Azure, e implementé correcciones integrales. Como resultado, el pipeline de CI/CD ahora opera sin problemas, y los despliegues son consistentemente exitosos. También estoy particularmente orgulloso de haber sido mentor de desarrolladores junior guiándolos a través de tareas de codificación, promoviendo mejores prácticas con Git, y realizando revisiones de código para asegurar la calidad antes de las fusiones.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/es/experience/job-1/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2024&lt;/div>
+ &lt;div class="experience__title">Desarrollador Junior&lt;/div>
+ &lt;div class="experience__company">
+ Dalhousie Consulting Association.
+ &lt;span class="experience__location">Halifax, Nueva Escocia&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Trabajo #1&lt;/h1>
+ 1er trabajo: Desarrollador Junior El comienzo de una gran carrera. Como Desarrollador Junior para Dalhousie Consulting Association, tuve la oportunidad de trabajar en el sitio web de DCA. Trabajando junto a desarrolladores senior experimentados y el director técnico, contribuí a la aplicación web principal de la empresa y aprendí las mejores prácticas de la industria en desarrollo de software. Durante los sprints, diseñé wireframes utilizando Figma e implementé los wireframes con React.js y TailwindCSS. Tomé la iniciativa de crear contenido orientado al cliente para ayudar a decidir qué Sistema de Gestión de Contenido utilizar - para lo cual finalmente eligieron Strapi CMS. Los desarrolladores senior asistieron mis esfuerzos en integrar Strapi CMS para los clientes mientras reconocían su poca habilidad técnica. Al final del proyecto, entregamos un sitio web completamente funcional, con contenido personalizable por un backend de Strapi integrado sin problemas. Este proyecto me enseñó lecciones valiosas en desarrollo técnico y colaboración. También participé en revisiones de código y reuniones diarias de seguimiento, obteniendo experiencia de primera mano en metodologías de desarrollo ágil. En general, a través de esta experiencia, construí una base sólida en desarrollo de software y colaboración profesional, sentando las bases para mi avance a roles más críticos dentro de los equipos.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;/div>
+ &lt;div class="experience-description col-12 col-md-6">
+ 
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="container-experience">
+ &lt;div class="row">
+ &lt;h2>Enlaces rápidos&lt;/h2>
+ &lt;div class="lead">&lt;/div>
+ &lt;/div>
+
+ &lt;div class="row">
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='https://www.linkedin.com/in/chizulu-zephaniah-906582308/'
+ class="btn btn-primary btn-block w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ &lt;i class="icon-globe">&lt;/i>
+ Linkedin
+ &lt;i class="icon-arrow-right">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='https://github.com/dev-zeph'
+ class="btn btn-frameless w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ 
+ Github
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;/div>
+&lt;/div>
+
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 ">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 mt-5 mt-sm-0">
+ 
+ &lt;h2 class="section__title mb-4">Experiencia (como lista)&lt;/h2>
+ 
+ 
+ 
+
+ 
+
+ 
+ &lt;div class="experience row">
+ &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start">
+ 
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">2024&lt;/div>
+ &lt;div class="experience__title">Desarrollador Único&lt;/div>
+ &lt;div class="experience__company">DalNotes. &lt;span class="experience__location">
+ Halifax, Nueva Escocia&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
+ &lt;h1>Trabajo #3&lt;/h1>
+ &lt;h2 id="3er-trabajo-desarrollador-único">3er trabajo: Desarrollador Único&lt;/h2>
+&lt;p>Lideré el desarrollo de Dalnotes, un repositorio de notas centralizado y de código abierto diseñado para ayudar a los estudiantes de Dalhousie a almacenar, compartir y acceder fácilmente a notas académicas. Aunque no está oficialmente afiliado con la Universidad Dalhousie, Dalnotes aborda una necesidad real dentro de la comunidad estudiantil para recursos de estudio accesibles y colaborativos.&lt;/p></description></item></channel></rss>
