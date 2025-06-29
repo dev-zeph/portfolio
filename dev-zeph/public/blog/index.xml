@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo Blog on</title><link>http://localhost:1313/blog/</link><description>Recent content in Demo Blog on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Feb 2025 08:05:05 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Create your own version of the site</title><link>http://localhost:1313/blog/getting-started/</link><pubDate>Tue, 11 Feb 2025 14:38:33 +0200</pubDate><guid>http://localhost:1313/blog/getting-started/</guid><description>&lt;p>This article is a guide to help you create your own version of the site using &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme">Adritian&lt;/a>. It will cover the main steps to get started with the theme, and how to customize it to your needs.&lt;/p>
-&lt;h3 id="creating-a-site">Creating a site&lt;/h3>
-&lt;p>This theme is for the content management system &lt;a href="https://gohugo.io/">Hugo&lt;/a>, so that will be a pre-requirement.
-Make sure that you install the &lt;code>extended&lt;/code> version of Hugo, as the theme uses SCSS for styling, as well as image optimization.&lt;/p></description></item><item><title>How to Add Custom Icons to the Adritian Theme</title><link>http://localhost:1313/blog/new-icons/</link><pubDate>Fri, 28 Feb 2025 08:05:05 +0100</pubDate><guid>http://localhost:1313/blog/new-icons/</guid><description>&lt;h1 id="how-to-add-custom-icons-to-the-adritian-theme">How to Add Custom Icons to the Adritian Theme&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo Blog on</title><link>http://localhost:1313/blog/</link><description>Recent content in Demo Blog on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Feb 2025 08:05:05 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Add Custom Icons to the Adritian Theme</title><link>http://localhost:1313/blog/new-icons/</link><pubDate>Fri, 28 Feb 2025 08:05:05 +0100</pubDate><guid>http://localhost:1313/blog/new-icons/</guid><description>&lt;h1 id="how-to-add-custom-icons-to-the-adritian-theme">How to Add Custom Icons to the Adritian Theme&lt;/h1>
 
 
 
@@ -677,27 +674,4 @@ listStyle = &amp;#34;summary&amp;#34; # options: simple, summary
 &lt;p>If you prefer not to use Hugo Modules, you can still install the theme as a git submodule.
 The guide is very similar to &lt;a href="https://gohugo.io/getting-started/quick-start/#create-a-site">official &amp;ldquo;Quick Start&amp;rdquo;&lt;/a>, just changing the theme URL in the &lt;code>git submodule add&lt;/code> command:&lt;/p></description></item><item><title>Sample content: featured image</title><link>http://localhost:1313/blog/sample-3/</link><pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate><guid>http://localhost:1313/blog/sample-3/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
 &lt;p>&lt;img src="http://localhost:1313/img/blog/feature-sample-3.png" alt="Example image">&lt;/p>
-&lt;p>Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p></description></item><item><title>Sample content: formatting styles</title><link>http://localhost:1313/blog/sample/</link><pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate><guid>http://localhost:1313/blog/sample/</guid><description>&lt;p>Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p>
-&lt;p>We will show some content that is supported:&lt;/p>
-&lt;h2 id="basic-syntax">Basic Syntax&lt;/h2>
-&lt;h3 id="headings">Headings&lt;/h3>
-&lt;pre tabindex="0">&lt;code># Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-&lt;/code>&lt;/pre>&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h3 id="heading-3">Heading 3&lt;/h3>
-&lt;h4 id="heading-4">Heading 4&lt;/h4>
-&lt;h5 id="heading-5">Heading 5&lt;/h5>
-&lt;h6 id="heading-6">Heading 6&lt;/h6>
-&lt;h3 id="emphasis">Emphasis&lt;/h3>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-text" data-lang="text">&lt;span style="display:flex;">&lt;span>*This text will be italic*
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_This will also be italic_
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>**This text will be bold**
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>__This will also be bold__
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>_You **can** combine them_
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;em>This text will be italic&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;p>Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p></description></item></channel></rss>
